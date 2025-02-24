@@ -21,5 +21,10 @@ namespace CompiladorLA_II
         {
 
         }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }
